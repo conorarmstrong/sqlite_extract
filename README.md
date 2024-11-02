@@ -44,7 +44,7 @@
 2. **Navigate to the Directory:**
 
    ```bash
-   cd yourrepository
+   cd conorarmstrong
    ```
 
 3. **Ensure Python 3 is Installed:**
