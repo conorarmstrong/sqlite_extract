@@ -44,7 +44,7 @@
 2. **Navigate to the Directory:**
 
    ```bash
-   cd conorarmstrong
+   cd sqlite_extract
    ```
 
 3. **Ensure Python 3 is Installed:**
