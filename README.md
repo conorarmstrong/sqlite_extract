@@ -38,7 +38,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/conorarmstrong/sqlite_extract.git
    ```
 
 2. **Navigate to the Directory:**
